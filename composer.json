@@ -1,6 +1,6 @@
 {
-    "name": "enniosousa/server-error-pages",
-    "description": "Laravel server-side error pages",
+    "name": "webwhales/server-error-pages",
+    "description": "Laravel server-side error pages, forked from enniosousa",
     "keywords": ["error pages", "laravel"],
     "type": "package",
     "version": "v1.0.5",
