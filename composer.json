@@ -3,7 +3,7 @@
     "description": "Laravel server-side error pages, forked from enniosousa",
     "keywords": ["error pages", "laravel"],
     "type": "package",
-    "version": "v2.0.0",
+    "version": "v2.0.1",
     "license": "MIT",
     "authors": [
         {
